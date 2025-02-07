@@ -6,8 +6,8 @@ nav_order: 1
 
 # Business Central Dokumentacija
 
-Zvanična dokumentacija za Business Central integraciju.
-## 🚀 Početak rada
+
+## Funkcionalnosti
 Klikni na neki od sledećih linkova da započneš:
 - [Instalacija](instalacija.md)
 - [Podešavanje](podesavanje.md)
