@@ -1,9 +1,14 @@
-# Business Central Dokumentacija  
-Dobrodošli u dokumentaciju za integraciju sa brzom poštom!  
+---
+layout: default
+title: "Business Central Dokumentacija"
+nav_order: 1
+---
 
-## Funkcionalnosti  
-- **Kreiranje Sales Order-a**
-- **Deljenje porudžbine u pakete**
-- **Praćenje pošiljki**  
+# Business Central Dokumentacija
 
-## Sekcijee  
+Zvanična dokumentacija za Business Central integraciju.
+## 🚀 Početak rada
+Klikni na neki od sledećih linkova da započneš:
+- [Instalacija](instalacija.md)
+- [Podešavanje](podesavanje.md)
+- [Testiranje](testiranje.md)
